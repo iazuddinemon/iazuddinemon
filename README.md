@@ -1,16 +1,28 @@
-## Hi there 👋
+👋 Hi, I'm Md Iaziddin Emon
 
-<!--
-**iazuddinemon/iazuddinemon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🐍 Python & Django Developer
 
-Here are some ideas to get you started:
+I'm a passionate developer focused on building secure, scalable, and efficient web applications using Python and Django.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 About Me
+
+- 🐍 Developing web applications with Python and Django
+- 🌐 Interested in backend development and REST APIs
+- 🗄️ Exploring database design and optimization
+- 🛠️ Writing clean, maintainable code
+- 🌱 Always learning and improving my skills
+- 🤝 Open to collaboration and exciting projects
+
+⚙️ Tech Stack
+
+- Language: Python
+- Framework: Django
+- Backend: Django REST Framework
+- Database: PostgreSQL, SQLite
+- Tools: Git, GitHub
+
+🎯 My Mission
+
+Building practical web solutions and growing as a backend developer.
+
+"Build with purpose. Code with passion. Improve every day." 🚀
